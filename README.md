@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajeleye Ojo
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Frontend 
 - 🌱 I’m currently learning
 - Vue Js and others frontend related stack 
 - 💞️ I’m looking to collaborate on ...
