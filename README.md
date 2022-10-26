@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajeleye Ojo
 - 👀 I’m interested in Frontend 
 - 🌱 I’m currently learning
-- Vue Js and others frontend related stack 
+-React Js and others frontend related stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 https://ajeleyeojo.vercel.app/
