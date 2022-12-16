@@ -7,8 +7,7 @@
 https://ajeleyeojo.vercel.app/
 
 akanscoded@gmail.com
-
-https://www.linkedin.com/in/ojo-n-ajeleye-akblaq/
+https://www.linkedin.com/in/ajeleyeojo/
 
 https://twitter.com/SpikeHub_
 
