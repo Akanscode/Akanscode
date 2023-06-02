@@ -4,12 +4,10 @@
 -React Js and others frontend related stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-https://ajeleyeojo.vercel.app/
-
-akanscoded@gmail.com
-https://www.linkedin.com/in/ajeleyeojo/
-
-https://twitter.com/SpikeHub_
+- (https://kanscodehub.vercel.app/)
+- akanscoded@gmail.com
+- https://www.linkedin.com/in/ajeleyeojo/
+- https://twitter.com/SpikeHub_
 
 <!---
 Akanscode/Akanscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
