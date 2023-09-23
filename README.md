@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ajeleye Ojo
-- 👀 I’m interested in Frontend 
-- 🌱 I’m currently learning
--React Js and others frontend related stack 
+- 👋 Hi, I’m **@Ajeleye Ojo**
+- 🌱  I am a Front-End Web developer who loves building user-friendly web applications.
+- 🤓 Interest in Coding and listening to songs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - (https://kanscodehub.vercel.app/)
